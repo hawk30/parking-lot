@@ -1,0 +1,10 @@
+*.history
+/logs
+/project/target/
+/target/
+.idea/
+.github/
+.DS_Store
+*.class
+*.iml
+*.history/
