@@ -1,7 +1,7 @@
 Executing the program:
 
 1.	Unzip
-2.	Open console and CD to the location
+2.	Open console and go to the location
 3.	./parking_lot.sh    -   This will build the code, run the tests and now you can use the console for executing the various commands
 4.	./parking_lot.sh file_inputs.txt  - This will build the code, run the tests and execute the commands from the file and print the output
 
